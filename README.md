@@ -1,20 +1,20 @@
-<!-- Centered Master Head Image with Rounded Corners and Shadow -->
+<!-- Master Head Image with Rounded Corners and Shadow -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfprWjDuvPpYZhsrZknF_WeBZlMamSFM87yw&s" alt="MasterHead" style="border-radius:10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfprWjDuvPpYZhsrZknF_WeBZlMamSFM87yw&s" alt="MasterHead" style="border-radius:10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); width: 90%; max-width: 600px;">
 </p>
 
-<!-- Main Title and Subtitle with Emojis and Gradient Background -->
+<!-- Title with Gradient Text -->
 <h1 align="center" style="background: linear-gradient(to right, #4e54c8, #8f94fb); -webkit-background-clip: text; color: transparent;">Hello, I'm Ishaan Shanker Srivastava 👋</h1>
-<h3 align="center">A Passionate Coder 🚀 | Tech Enthusiast 💻</h3>
+<h3 align="center" style="font-weight: normal; font-size: 1.2em;">Passionate Coder | Tech Enthusiast</h3>
 
-<!-- Introduction Section with Smooth Shadow Text -->
-<p align="center" style="font-size: 18px; font-weight: 500;">
-  I'm a driven software developer with a strong foundation in backend development and a love for solving complex DSA problems. Skilled in Java and Python, I enjoy building efficient solutions and exploring the latest advancements in AI and ML. Let's connect and create something impactful!
+<!-- Introduction Section with Emphasis -->
+<p align="center" style="font-size: 18px; font-weight: 400; color: #333;">
+  I’m a dedicated developer focused on backend development and DSA. Skilled in <strong>Java</strong> and <strong>Python</strong>, with an interest in AI/ML. Let's build something impactful together!
 </p>
 
-<!-- Animated Coding GIF with Shadow Effect -->
+<!-- Animated Coding GIF with Rounded Corners -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxbGJtbXl1YnRxcjB1eDkwZDNzbzR1ZWNlbWZ1MmJscTlqZ3pncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.webp" alt="Coding" width="400" style="box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); border-radius: 10px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYxbGJtbXl1YnRxcjB1eDkwZDNzbzR1ZWNlbWZ1MmJscTlqZ3pncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.webp" alt="Coding" width="400" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
 </p>
 
 <!-- Profile View Counter -->
@@ -22,14 +22,14 @@
   <img src="https://komarev.com/ghpvc/?username=comrade-1729&label=Profile%20views&color=blue&style=flat-square" alt="Profile views counter" />
 </p>
 
-<!-- GitHub Trophies with Custom Theme and Gradient Border -->
+<!-- GitHub Trophies with Custom Theme and Border -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=comrade-1729&theme=juicyfresh&margin-w=15" alt="GitHub trophies" style="border-radius: 8px;">
   </a>
 </p>
 
-<!-- Connect With Me Section with Icon Animation -->
+<!-- Connect With Me Icons with Hover Effect -->
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ishaan-shanker-srivastava-1366541b9" target="_blank">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<!-- Languages and Tools Section with Hover Effects -->
+<!-- Languages and Tools with Icons and Hover Effect -->
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-<!-- GitHub Stats with Animated Counter and Gradient Border -->
+<!-- GitHub Stats Section with Gradient Border and Rounded Corners -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=comrade-1729&show_icons=true&layout=compact&theme=radical" alt="Top Languages" style="border: 2px solid #8f94fb; border-radius: 8px;"/>
