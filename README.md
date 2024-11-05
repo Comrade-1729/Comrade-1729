@@ -1,6 +1,6 @@
 <!-- Master Head Image -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/neural-network-wallpaper-banner-idea-ai-generated-background-idea_166373-4275.jpg" alt="MasterHead">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfprWjDuvPpYZhsrZknF_WeBZlMamSFM87yw&s" alt="MasterHead">
 </p>
 
 <!-- Main Title and Subtitle -->
