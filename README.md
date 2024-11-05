@@ -20,7 +20,7 @@
 <!-- GitHub Trophies -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=comrade-1729" alt="comrade-1729" />
+    <img src="https://github-profile-trophy.vercel.app/?username=comrade-1729&theme=onedark" alt="comrade-1729" />
   </a> 
 </p>
 
@@ -54,13 +54,13 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=comrade-1729&show_icons=true&locale=en&layout=compact" alt="comrade-1729" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=comrade-1729&show_icons=true&locale=en&layout=compact&theme=onedark" alt="comrade-1729" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=comrade-1729&show_icons=true&locale=en" alt="comrade-1729" />
+  <img src="https://github-readme-stats.vercel.app/api?username=comrade-1729&show_icons=true&locale=en&theme=onedark" alt="comrade-1729" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comrade-1729&" alt="comrade-1729" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=comrade-1729&theme=onedark" alt="comrade-1729" />
 </p>
