@@ -1,10 +1,3 @@
-<!-- Master Head Image -->
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfprWjDuvPpYZhsrZknF_WeBZlMamSFM87yw&s"
-       alt="MasterHead"
-       style="border-radius:10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); width: 90%; max-width: 600px;">
-</p>
-
 <!-- Title -->
 <h1 align="center">Ishaan Shanker Srivastava</h1>
 <h3 align="center">AI / ML Engineer · Data Science · Backend Systems</h3>
