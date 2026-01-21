@@ -33,14 +33,17 @@
   </li>
 </ul>
 
-<!-- Skills -->
+<!-- Core Skills -->
 <h3 align="center">Core Skills</h3>
 
 <p align="center">
   <b>Languages:</b> Python, Java<br/>
-  <b>Data & ML:</b> Pandas, NumPy, EDA, Statistical Analysis, NLP<br/>
-  <b>Backend:</b> Django, REST APIs, request-lifecycle design<br/>
-  <b>MLOps / Engineering:</b> Modular pipelines, reproducibility, dataset immutability, Git, Docker<br/>
+  <b>Data & ML:</b> Pandas, NumPy, EDA, Statistical Analysis, NLP, ML fundamentals<br/>
+  <b>Backend & Systems:</b> Django, REST APIs, request–response lifecycle design, PostgreSQL<br/>
+  <b>Engineering & MLOps:</b> Modular pipelines, reproducibility, dataset immutability, data validation, Pytest<br/>
+  <b>Deployment & Tooling:</b> Git, GitHub, Docker, Docker Compose, Linux / WSL, YAML, Render<br/>
+  <b>Frontend & Product:</b> HTML, CSS, Tailwind CSS, Figma<br/>
+  <b>AI System Design:</b> evaluation metrics, latency profiling, explainability, non-causal analysis
 </p>
 
 <!-- Visual -->
