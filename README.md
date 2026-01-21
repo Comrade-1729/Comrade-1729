@@ -4,13 +4,36 @@
 </p>
 
 <!-- Title with Gradient Text -->
-<h1 align="center" style="background: linear-gradient(to right, #4e54c8, #8f94fb); -webkit-background-clip: text; color: transparent;">Hello, I'm Ishaan Shanker Srivastava 👋</h1>
-<h3 align="center" style="font-weight: normal; font-size: 1.2em;">Passionate Coder | Tech Enthusiast</h3>
+<h1 align="center">Ishaan Shanker Srivastava</h1>
+<h3 align="center">AI / ML Engineer · Data Science · Backend Systems</h3>
 
 <!-- Introduction Section with Emphasis -->
-<p align="center" style="font-size: 18px; font-weight: 400; color: #333;">
-  I’m a dedicated developer focused on backend development and DSA. Skilled in <strong>Java</strong> and <strong>Python</strong>, with an interest in AI/ML. Let's build something impactful together!
+<p align="center" style="font-size: 16px;">
+  I build <b>production-structured AI and data systems</b> — not demos.
+  My work focuses on <b>data integrity, system design, and responsible ML</b>,
+  with hands-on experience across backend engineering, analytics pipelines, and AI workflows.
 </p>
+
+<h3 align="center">Featured Projects</h3>
+
+<ul>
+  <li>
+    <b>LexBrief AI — Legal Document Intelligence System</b><br/>
+    Production-grade NLP system with hierarchical summarization, clause extraction,
+    explainable risk analysis, and jurisdiction-aware logic.
+    <br/>
+    <i>Python · Django · NLP · Transformers · Rule-based AI · MLOps</i>
+  </li>
+  <br/>
+  <li>
+    <b>Systemic Risk & Inequality Intelligence Platform (EDA-MLOps)</b><br/>
+    Multi-domain analytics system synthesizing climate, health, digital divide,
+    and disaster risk under strict non-causal and audit-safe constraints.
+    <br/>
+    <i>Python · Pandas · Statistical Analysis · Reproducible Pipelines</i>
+  </li>
+</ul>
+
 
 <!-- Animated Coding GIF with Rounded Corners -->
 <p align="center">
@@ -41,21 +64,15 @@
 </p>
 
 <!-- Languages and Tools with Icons and Hover Effect -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Core Skills</h3>
+
 <p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+<b>Languages:</b> Python, Java<br/>
+<b>Data & ML:</b> Pandas, NumPy, EDA, Statistical Analysis, NLP<br/>
+<b>Backend:</b> Django, REST APIs<br/>
+<b>MLOps / Engineering:</b> Modular Pipelines, Reproducibility, Git, Docker<br/>
 </p>
+
 
 <!-- GitHub Stats Section with Gradient Border and Rounded Corners -->
 <h3 align="center">GitHub Stats:</h3>
@@ -70,9 +87,11 @@
 </p>
 
 <!-- Additional Section for Interests and Goals -->
-<h3 align="center">My Interests and Goals</h3>
+<h3 align="center">What I’m Working On</h3>
+
 <p align="center">
-  🌱 I’m currently learning advanced data structures and exploring cloud solutions for scalable applications.<br>
-  🎯 My goal is to contribute to open-source AI projects and deepen my knowledge of machine learning.<br>
-  🚀 I’m always on the lookout for collaborative projects and am eager to learn from seasoned developers in the industry!
+• Building production-structured AI and data systems with strong analytical guardrails<br/>
+• Deepening expertise in ML system design, evaluation, and data integrity<br/>
+• Contributing to open-source projects where correctness and responsibility matter<br/>
 </p>
+
