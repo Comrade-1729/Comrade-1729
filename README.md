@@ -64,16 +64,4 @@
 </p>
 
 <!-- GitHub Stats (cleaned) -->
-<h3 align="center">GitHub Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=comrade-1729&show_icons=true&layout=compact&theme=radical"
-       alt="Top Languages"
-       style="border-radius: 8px;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=comrade-1729&show_icons=true&theme=radical"
-       alt="GitHub Stats"
-       style="border-radius: 8px;"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=comrade-1729&show_icons=true&theme=radical" alt="GitHub Stats" style="border: 2px solid #4e54c8; border-radius: 8px;"/> </p>
