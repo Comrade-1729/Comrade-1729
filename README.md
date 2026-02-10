@@ -4,10 +4,10 @@
 
 <!-- Introduction -->
 <p align="center" style="font-size: 16px;">
-  I design and build <b>production-structured AI and data systems</b> — not demos.
-  My work emphasizes <b>data integrity, system boundaries, and responsible ML</b>,
-  with hands-on experience across backend engineering, analytics pipelines,
-  and end-to-end AI workflows.
+  I design and build <b>production-structured AI and data systems</b> — not demos.  
+  My work emphasizes <b>data integrity, system boundaries, and responsible ML</b>,  
+  with hands-on experience across backend engineering, analytics pipelines, and  
+  end-to-end AI workflows in high-risk domains.
 </p>
 
 <!-- Projects -->
@@ -16,18 +16,18 @@
 <ul>
   <li>
     <b>LexBrief AI — Legal Document Intelligence System</b><br/>
-    A production-oriented NLP system for long legal documents, featuring hierarchical summarization,
-    clause extraction, explainable risk indicators, and jurisdiction-aware logic with strict
-    non-advisory enforcement.
+    A production-oriented legal NLP system for long contracts featuring 
+    hierarchical summarization, clause extraction, explainable risk analysis, 
+    and jurisdiction-aware logic with strict non-advisory boundaries.
     <br/>
     <i>Python · Django · NLP · Transformers · Rule-based AI · MLOps-aware design</i>
   </li>
   <br/>
   <li>
     <b>Systemic Risk & Inequality Intelligence Platform (EDA-MLOps)</b><br/>
-    A multi-domain analytics system synthesizing environmental stress, health burden,
-    digital divide, and disaster exposure — built with explicit non-causal framing,
-    regime-based synthesis, and audit-safe analytical boundaries.
+    A multi-domain analytics system synthesizing environmental stress, 
+    health burden, digital access, and disaster exposure — built with explicit 
+    non-causal framing, regime-based synthesis, and auditable analytical boundaries.
     <br/>
     <i>Python · Pandas · Statistical Analysis · Reproducible Pipelines · Data Contracts</i>
   </li>
@@ -38,7 +38,7 @@
 
 <p align="center">
   <b>Languages:</b> Python, Java<br/>
-  <b>Data & ML:</b> Pandas, NumPy, EDA, Statistical Analysis, NLP, ML fundamentals<br/>
+  <b>Data & ML:</b> Pandas, NumPy, EDA, Statistical Analysis, NLP, ML evaluation, failure analysis, and metrics design<br/>
   <b>Backend & Systems:</b> Django, REST APIs, request–response lifecycle design, PostgreSQL<br/>
   <b>Engineering & MLOps:</b> Modular pipelines, reproducibility, dataset immutability, data validation, Pytest<br/>
   <b>Deployment & Tooling:</b> Git, GitHub, Docker, Docker Compose, Linux / WSL, YAML, Render<br/>
